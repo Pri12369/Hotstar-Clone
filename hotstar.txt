@@ -727,5 +727,3 @@ a:hover {
 
 
 
-codesandbox link: https://codesandbox.io/s/xenodochial-lucy-d6yqhh?file=/styles.css:0-5801
-
